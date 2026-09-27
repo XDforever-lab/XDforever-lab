@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 # Hi, I'm Ding Yi · 丁一
 
 **Information Management Student · NLP & LLM Researcher · Digital Humanities Explorer**
@@ -82,8 +84,8 @@ Text Mining                      Knowledge Organization
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XDforever-lab&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ding Yi's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDforever-lab&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDforever-lab&theme=default" alt="Ding Yi's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XDforever-lab&theme=default" alt="Most used languages" />
 </div>
 
 ---
